@@ -34,9 +34,7 @@ It's handy when you don't have shell access and need to package files server-sid
 - Path traversal is blocked: only files within the current directory can be added to an archive.
 - Only `.zip` files can be downloaded or deleted through the interface.
 
-## Version
 
-Beta — use at your own risk.
 
 ## License
 
